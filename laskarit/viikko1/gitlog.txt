@@ -1,4 +1,4 @@
-➜  otm_viikko1 git:(master) git log --stat | cat
+$ otm_viikko1 git:(master) git log --stat | cat
 commit 7695cc977bc660407711d8f948331a10b99176f2
 Author: Matti Luukkainen <mluukkai@iki.fi>
 Date:   Mon Feb 26 16:11:26 2018 +0200
