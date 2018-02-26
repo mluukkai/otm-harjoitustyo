@@ -1,7 +1,6 @@
 # OTM
 
-_Harjoitusrepo_
+## Viikko1
 
-## Otsikko
-
-**tekstiä**
+[komentorivi.txt](https://github.com/mluukkai/otm-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+[gitlog.txt](https://github.com/mluukkai/otm-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
