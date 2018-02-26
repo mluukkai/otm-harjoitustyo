@@ -1,6 +1,6 @@
 # OTM-harjoitustyö
 
-Kevät 2018
+_Kevät 2018_
 
 ## Tehtävät
 
