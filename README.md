@@ -11,3 +11,5 @@ _Kevät 2018_
 [gitlog.txt](https://github.com/mluukkai/otm-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
 ### Viikko 2
+
+-
